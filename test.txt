@@ -1,8 +1,1 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-111Git has a mutable index called stage.
-222222
-3333
-5555566666
-44444
-666667777777
+11111
